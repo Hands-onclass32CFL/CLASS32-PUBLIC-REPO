@@ -7,3 +7,5 @@ git init   #start the git project
 git status   [to check hte state of the file]
 git add . [to add everything to what will be committed]
 git add [filename00]   # git add Walson 
+you must practice pull request. 
+Fai is making progress. 
