@@ -145,3 +145,4 @@ STEPS USED TO AUTHENTICATE
   143  touch git-history.txt
   144  git history
   145  history
+  146  #!/bin/bash   is the first line of scripting.
