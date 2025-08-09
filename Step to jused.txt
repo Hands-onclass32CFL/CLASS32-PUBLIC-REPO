@@ -146,3 +146,4 @@ STEPS USED TO AUTHENTICATE
   144  git history
   145  history
   146  #!/bin/bash   is the first line of scripting.
+  cheking the changes in the git remote
