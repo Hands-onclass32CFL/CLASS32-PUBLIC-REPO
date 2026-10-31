@@ -4,3 +4,6 @@ CHERVOLET
 HONDA 
 HYUNDA
  But Mercedes is the best 
+GMC
+LEXUS
+SUBARU
